@@ -23,9 +23,8 @@
 - Portfolio-building projects with fellow developers
 
 ## 📫 How to reach me:
-- 📧 Email: [YourEmail@example.com] (replace this)
-- 💼 LinkedIn: [Your LinkedIn URL] (replace this)
-- 🌐 Portfolio: [Your Portfolio URL] (optional)
+- 📧 Email: hussainshahhere0@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/syed-muhammad-hussain-shah-a4a812231
 
 ## 😄 Pronouns:
 He/Him
